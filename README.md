@@ -1,4 +1,4 @@
-# confidentiality
+# confidentiality for game "Cubeic"
 confidentiality file for game "Cubeic"
 this game asks for access to your storage for the sake of transferring your save to google play cloud.
 
